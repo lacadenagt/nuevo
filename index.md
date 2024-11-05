@@ -6,4 +6,4 @@ og_description: Encuentra las mejores herramientas eléctricas en Ferretería La
 ---
 {% include section.html %}
 {% include banner.html %}
-{% include sectionProductos.html %}
+{% include sectionProductos2.html %}
