@@ -48,12 +48,10 @@
 <body class="animsition">
 	<div>
 		{% include header.html %}
-		{% include banner.html %}
+		{{ content }}
 	</div>
 
-	<div style="margin-left:10%;margin-right:10%;background:yellow">
-	{{ content }}
-	</div>
+	
 	<!-- Footer -->
 	{% include footer.html %}
 	<!-- Back to top -->
