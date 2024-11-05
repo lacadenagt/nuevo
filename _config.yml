@@ -1,9 +1,20 @@
 author:
   email: "infolacadena@gmail.com"
   url: "https://www.lacadenagt.com"
-excerpt_separator: <!--more-->
-baseurl: ""
-markdown: kramdown
+
+# Configuración general
+baseurl: ""  # Deja esto vacío si el sitio está en la raíz, o usa "/" si estás en un entorno local.
 permalink: /posts/:year/:month/:day/:title
+excerpt_separator: <!--more-->
+
+# Markdown y plugins
+markdown: kramdown
+kramdown:
+  input: GFM  # Activa Markdown de GitHub para HTML más flexible
+  parse_block_html: true  # Permite bloques de HTML sin escapar el contenido
+  syntax_highlighter_opts:
+    disable: true  # Desactiva el resaltado de código, en caso de que cause conflictos
+
+# Plugins
 plugins:
   - jekyll-feed
