@@ -12,7 +12,7 @@ og_description: Conoce más sobre las herramientas y productos de ferretería en
 </style>
 <br>
 <h2 style="text-align:center" title="herramientas eléctricas">Blog</h2>
-<div style="background:orange;margin-left:7%;margin-bottom:7%;margin-right:10%">
+<div>
 {% for post in site.posts limit:page.num_excerpts %}
 {% include preview.md post=post %}
 {% endfor %}
