@@ -12,17 +12,17 @@ og_description: Encuentra las mejores herramientas eléctricas en Ferretería La
       font-size:18px;
     }
 </style>
-<div class="container" style="background:green;margin-top:10%;margin-bottom:10%">
+<div class="container" style="margin-top:10%;margin-bottom:10%">
 <h2 style="text-align:center" title="Proyectos">Proyectos</h2>
 Tengo una gran variedad de proyectos, algunos son de código abierto y pueden verlo en mi perfil de [GitHub](https://github.com/santoslopez)
 {% for post in site.posts limit:5 %}
 <div class="card mb-3" style="max-width:100%;">
   <div class="row g-0">
-    <div class="col-md-4">
+    <!--div class="col-md-4">
       <a href="{{ post.url }}" title="Visita el enlace {{ post.title }} para más información.">
         <img src="{{ post.imagenPrincipal }}" class="img-fluid rounded-start" alt="Imagen de proyecto: {{ post.url }}">
       </a>
-    </div>
+    </div-->
     <div class="col-md-8">
       <div class="card-body">
         <a href="{{ post.url }}" title="Más información de {{ post.title }} visita el enlace.">
