@@ -11,18 +11,18 @@ og_description: Conoce más sobre las herramientas y productos de ferretería en
     }
 </style>
 <br>
-<div class="container" style="margin-top:10%;margin-bottom:10%">
 <h2 style="text-align:center" title="herramientas eléctricas">Blog</h2>
 {% for post in site.posts limit:page.num_excerpts %}
 {% include preview.md post=post %}
 {% endfor %}
 
 {% if site.posts.size > page.num_excerpts %}
-## Posts antiguos
+
+## Post antiguos
+
 <ul>
     {% for post in site.posts offset:page.num_excerpts %}
         <li><a class="btn btn-primary" href="{{ post.url }}" role="button" title="{{ post.title }}">{{ post.title }}</a></li>
     {% endfor %}
 </ul>
 {% endif %}
-</div>
