@@ -10,7 +10,7 @@ og_description: Conoce más sobre las herramientas y productos de ferretería en
         color:blue;
     }
 </style>
-<br>
+<div>
 <h2 style="text-align:center" title="herramientas eléctricas">Blog</h2>
 {% for post in site.posts limit:5 %}
 <div class="card mb-3" style="max-width:100%;">
@@ -44,3 +44,4 @@ og_description: Conoce más sobre las herramientas y productos de ferretería en
     {% endfor %}
 </ul>
 {% endif %}
+</div>
