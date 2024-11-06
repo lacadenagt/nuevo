@@ -18,9 +18,7 @@ og_description: Conoce más sobre las herramientas y productos de ferretería en
 {% endfor %}
 
 {% if site.posts.size > page.num_excerpts %}
-
-## Post antiguos
-
+## Posts antiguos
 <ul>
     {% for post in site.posts offset:page.num_excerpts %}
         <li><a class="btn btn-primary" href="{{ post.url }}" role="button" title="{{ post.title }}">{{ post.title }}</a></li>
