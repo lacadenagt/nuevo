@@ -10,7 +10,8 @@ og_description: Conoce más sobre las herramientas y productos de ferretería en
         color:blue;
     }
 </style>
-<br><div class="container" style="background:orange">
+<br>
+<div class="container" style="background:orange">
 <h2 style="text-align:center" title="herramientas eléctricas">Blog</h2>
 {% for post in site.posts limit:page.num_excerpts %}
 {% include preview.md post=post %}
