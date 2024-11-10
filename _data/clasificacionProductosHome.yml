@@ -1,0 +1,27 @@
+# equivale a dibujar o crear los botones para mostrar las categorias
+# de productos, ejemplo: todos los productos, soldadoras, compresores, etc
+- producto: Todos los productos
+  active: 1
+  dateFilter: "*"
+  howActive: how-active1
+  
+- producto: Compresores
+  dateFilter: .compresores
+
+- producto: Soldadoras
+  dateFilter: .soldadoras
+
+- producto: Canteadoras
+  dateFilter: .bag
+
+- producto: Sierras de mesa
+  dateFilter: .shoes
+
+- producto: Hola
+  dateFilter: .2shoes
+
+
+
+
+
+
