@@ -1,0 +1,25 @@
+# Jekyll
+_site/
+.jekyll-cache/
+.sass-cache/
+
+# Dependencias de Ruby
+/vendor/
+.bundle/
+
+# Archivos de configuración de editor
+*.swp
+*.swo
+*.vscode/
+
+# Archivos temporales
+*.log
+*.bak
+
+# Archivos de producción (si usas alguna herramienta como Webpack, npm, etc.)
+node_modules/
+npm-debug.log
+
+# Archivos generados por IDEs
+.idea/
+**/.DS_Store

@@ -95,3 +95,37 @@
   categoria: soldadoras
   block: 3
   
+- nombreProducto: Cortadora de metal de 14 marca Bosch
+  imagen: tronzadoras/tronzadoraBosch.jpg
+  textoQuickView: Te odio
+  enlace: "#"
+  precioProducto: precio
+  categoria: tronzadoras
+  block: 3
+
+- nombreProducto: Tronzadora / cortadora de metales 14", mango en "D", 2200 W
+  imagen: tronzadoras/CM-14N.jpg
+  textoQuickView: Te odio
+  enlace: "#"
+  precioProducto: precio
+  categoria: tronzadoras
+  block: 3
+
+- nombreProducto: Pulidora de 9 2200 watts
+  imagen: pulidoras/pulidora9Bosch.jpg
+  textoQuickView: Te odio
+  enlace: "#"
+  precioProducto: precio
+  categoria: pulidoras
+  block: 4
+
+- nombreProducto: Esmeriladora angular 9", 2100W, TRUPER INDUSTRIAL
+  imagen: pulidoras/pulidora9Truper.jpg
+  textoQuickView: Te odio
+  enlace: "#"
+  precioProducto: precio
+  categoria: pulidoras
+  block: 4
+
+
+  
