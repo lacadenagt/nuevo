@@ -4,7 +4,7 @@
 
     /*[ Load page ]
     ===========================================================*/
-    $(".animsition").animsition({
+    /*$(".animsition").animsition({
         inClass: 'fade-in',
         outClass: 'fade-out',
         inDuration: 1500,
@@ -22,7 +22,7 @@
         overlayClass : 'animsition-overlay-slide',
         overlayParentElement : 'html',
         transition: function(url){ window.location.href = url; }
-    });
+    });*/
     
     /*[ Back to top ]
     ===========================================================*/

@@ -42,7 +42,7 @@
         
           <url>
             <loc>https://localhost:4000/contactar</loc>
-            <lastmod>2024-11-10</lastmod>
+            <lastmod>2024-11-17</lastmod>
             <priority>0.9</priority>
           </url>
         
@@ -57,7 +57,7 @@
             
                 <url>
                 <loc>https://localhost:4000/cs</loc>
-                <lastmod>2024-11-10</lastmod>
+                <lastmod>2024-11-17</lastmod>
                 
                     <priority>0.5</priority>
                 
@@ -75,7 +75,7 @@
             
                 <url>
                 <loc>https://localhost:4000/faq</loc>
-                <lastmod>2024-11-10</lastmod>
+                <lastmod>2024-11-17</lastmod>
                 
                     <priority>0.5</priority>
                 
@@ -93,7 +93,7 @@
             
                 <url>
                 <loc>https://localhost:4000/herramientas</loc>
-                <lastmod>2024-11-10</lastmod>
+                <lastmod>2024-11-17</lastmod>
                 
                     <priority>0.5</priority>
                 
@@ -110,7 +110,7 @@
         
           <url>
             <loc>https://localhost:4000/</loc>
-            <lastmod>2024-11-10</lastmod>
+            <lastmod>2024-11-17</lastmod>
             <priority>1.0</priority>
           </url>
         
@@ -125,7 +125,7 @@
             
                 <url>
                 <loc>https://localhost:4000/politica-de-cookies</loc>
-                <lastmod>2024-11-10</lastmod>
+                <lastmod>2024-11-17</lastmod>
                 
                     <priority>0.5</priority>
                 
@@ -143,7 +143,7 @@
             
                 <url>
                 <loc>https://localhost:4000/politica-de-privacidad</loc>
-                <lastmod>2024-11-10</lastmod>
+                <lastmod>2024-11-17</lastmod>
                 
                     <priority>0.5</priority>
                 
@@ -161,7 +161,7 @@
             
                 <url>
                 <loc>https://localhost:4000/posts</loc>
-                <lastmod>2024-11-10</lastmod>
+                <lastmod>2024-11-17</lastmod>
                 
                     <priority>0.5</priority>
                 
@@ -179,7 +179,7 @@
             
                 <url>
                 <loc>https://localhost:4000/product</loc>
-                <lastmod>2024-11-10</lastmod>
+                <lastmod>2024-11-17</lastmod>
                 
                     <priority>0.5</priority>
                 
@@ -195,34 +195,6 @@
   
 
 
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
 
   
 
