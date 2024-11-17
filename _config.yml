@@ -9,4 +9,4 @@ plugins:
   - jekyll-feed
   #- jekyll-paginate
 paginate: 10
-paginate_path: "page/num:"
+paginate_path: "proyectos/page/num:/"

@@ -1,5 +1,5 @@
 - nombreProducto: Compresor libre de aceite, 24L, 2-2/3HP, 127V, TRUPER
-  imagen: compresor/COMP-24S.jpg
+  imagen: compresor/COMP-24S.webp
   altImagen: estoy kkk
   textoQuickView: Quick View
   enlace: "#"
@@ -8,7 +8,7 @@
   block: 2
 
 - nombreProducto: Compresor lubricado, 40L, 3HP, horizontal, 127V, PRETUL
-  imagen: compresor/COMP-40LP.jpg
+  imagen: compresor/COMP-40LP.webp
   altImagen: estoy kkk
   textoQuickView: Quick View
   enlace: "#"
@@ -17,7 +17,7 @@
   block: 2
 
 - nombreProducto: Compresor libre de aceite, 50L, 3HP, vertical, 127V, TRUPER
-  imagen: compresor/COMP-50S.jpg
+  imagen: compresor/COMP-50S.webp
   altImagen: estoy kkk
   textoQuickView: Quick View
   enlace: "#"
@@ -26,7 +26,7 @@
   block: 2
 
 - nombreProducto: Compresor lubricado, 50L, 3-1/2HP, horizontal, 127V, TRUPER
-  imagen: compresor/COMP-50LT.jpg
+  imagen: compresor/COMP-50LT.webp
   altImagen: estoy kkk
   textoQuickView: Quick View
   enlace: "#"
@@ -35,7 +35,7 @@
   block: 2
 
 - nombreProducto: Compresor lubricado, 50L, 3-1/2HP, vertical, 127V, TRUPER
-  imagen: compresor/COMP-50LV.jpg
+  imagen: compresor/COMP-50LV.webp
   altImagen: estoy kkk
   textoQuickView: Quick View
   enlace: "#"
@@ -44,7 +44,7 @@
   block: 2
 
 - nombreProducto: Compresor lubricado, de banda, 60L, hor, 4HP, 127V, TRUPER
-  imagen: compresor/COMP-60LB.jpg
+  imagen: compresor/COMP-60LB.webp
   altImagen: estoy kkk
   textoQuickView: Quick View
   enlace: "#"
@@ -54,7 +54,7 @@
 
 
 - nombreProducto: Compresor lubricado, 80L, 3-1/2HP, vertical, 127V, TRUPER
-  imagen: compresor/COMP-80LV.jpg
+  imagen: compresor/COMP-80LV.webp
   altImagen: estoy kkk
   textoQuickView: Quick View
   enlace: "#"
@@ -63,7 +63,7 @@
   block: 2
 
 - nombreProducto: Compresor lubricado, de banda, 240L, 4HP, vert, 220V, TRUPER
-  imagen: compresor/COMP-240LV.jpg
+  imagen: compresor/COMP-240LV.webp
   altImagen: estoy kkk
   textoQuickView: Quick View
   enlace: "#"
